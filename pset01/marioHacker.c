@@ -1,5 +1,5 @@
 /*
-    CS50 PSET01
+    CS50 PSET01 - Hacker Edition
 
     Itsa Mario Hacker Edition
     Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over
